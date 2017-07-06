@@ -1,0 +1,28 @@
+body {
+    padding-top: 50px;
+}
+.digitalbank-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.container-fluid {
+    padding: 0px;
+}
+.conteudo-index {
+    position: relative;
+    z-index: 9999;
+}
+
+.img-back {
+  position: absolute; 
+  top: 0px; 
+  width: 100%;
+}
+
+.letra {
+    color: wheat;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
